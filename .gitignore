@@ -1,0 +1,7 @@
+*.pyc
+data/*
+.idea/*
+weights/*
+*.egg-info
+helper_scripts/*
+cfg/*
